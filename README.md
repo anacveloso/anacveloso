@@ -3,7 +3,7 @@
 - 📚 I’m currently studying graphic design
 - 🌱 I’m currently learning front-end
 - 💬 Ask me about whatever you want
-- 📫 How to reach me: @anac.veloso or lina.neftis@gmail.com
+- 📫 How to reach me: lina.neftis@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: love to paint 🖌️ | dog person 🐶 | Azeroth like second home 🗡️
 
