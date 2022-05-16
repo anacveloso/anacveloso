@@ -1,4 +1,4 @@
-### Hi, im Ana Carolina Veloso. 💡
+### Hi, I'm Ana Carolina Veloso. 💡
 
 - 📚 I’m currently studying graphic design
 - 🌱 I’m currently learning front-end
