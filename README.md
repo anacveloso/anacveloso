@@ -14,10 +14,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/280556486_400521725261270_1102006293588309832_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=102&_nc_ohc=ZRAR9o4TPaEAX8_hg2d&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT-cQCbsE60EHnkW2hV8LxldzBY08ouDC7aRSkwxe_F9gA&oe=6283AB23&_nc_sid=9a90d6">
-</div>
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/WzPBtSLx/IMG-20220527-165158354.jpg">
+  </div>
   
   ##
  
